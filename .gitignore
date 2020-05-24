@@ -1,0 +1,15 @@
+.settings/
+.idea/
+target/
+.gradle/
+build/
+out/
+classes/
+.classpath
+.project
+*.md
+!README.md
+*.iml
+*.
+LICENSE
+gradle.properties
